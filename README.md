@@ -27,9 +27,9 @@ Creates scatter plots to visualize relationships between ratings and viewership.
 
 ## Libraries used
 
-<b> Pandas Lib <\b>: Data manipulation and analysis.  
+Pandas Lib: Data manipulation and analysis.  
 
-<b> Matplotlib <\b> and <b> Seaborn Lib <\b>: For creating visualizations.  
+Matplotlib and Seaborn Lib: These are used to create visualizations.  
 
 
 ## Visualizations  
